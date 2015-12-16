@@ -1,0 +1,8 @@
+---
+"$schema": http://json-schema.org/draft-04/hyper-schema
+description: A schema of a test server
+id: example-server
+links:
+- href: http://api.example.com/
+  rel: self
+title: A test server
